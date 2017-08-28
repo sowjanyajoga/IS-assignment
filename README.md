@@ -1,10 +1,24 @@
-###### This is a readme file which consists of the license information and a list of files in the repository  
+###### This is a readme file which consists of the license information and a list of files in the repository and other miscellaneous information 
+
+### PROJECT TITLE
+Information Seeking Assignment
 
 ### LICENSE INFORMATION
 The license choosen here is the MIT License, the license information can be obtained [here](https://github.com/sowjanyajoga/IS-assignment/blob/master/LICENSE)
 
 ### LIST OF FILES IN THE REPOSITORY
+The repository in which the files are being maintained is named IS-assignment. The following files are present in the repository. Dated 08/28/17
 1. LICENSE
+
+### FILES NEWLY ADDED
+
+### FILES MODIFIED
+
+### FILES DELETED
+
+### LAST MODIFIED
+Author/Contributor:
+Date and Time:
 
 ### SYNOPSIS
 This project is based on three unique data sets which are identified from different sources. A summary of the key details is provided
@@ -53,7 +67,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 2. Update the README.md with details of changes to the interface, this includes new environment 
    variables, exposed ports, useful file locations and container parameters.
 3. Increase the version numbers in any examples files and the README.md to the new version that this
-   Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
+   Pull Request would represent.
 4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
    do not have permission to do that, you may request the second reviewer to merge it for you.
 
