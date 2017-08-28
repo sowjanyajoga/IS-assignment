@@ -9,16 +9,21 @@ The license choosen here is the MIT License, the license information can be obta
 ### LIST OF FILES IN THE REPOSITORY
 The repository in which the files are being maintained is named IS-assignment. The following files are present in the repository. Dated 08/28/17
 1. LICENSE
+2. README.md
 
 ### FILES NEWLY ADDED
+1. LICENSE
+2. README.md
 
 ### FILES MODIFIED
+None
 
 ### FILES DELETED
+None
 
 ### LAST MODIFIED
-Author/Contributor:
-Date and Time:
+Author/Contributor: sowjanyajoga
+Date and Time: 08/28/17 14:00 PM
 
 ### SYNOPSIS
 This project is based on three unique data sets which are identified from different sources. A summary of the key details is provided
