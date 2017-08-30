@@ -11,41 +11,41 @@ The repository in which the files are being maintained is named IS-assignment. T
 1. LICENSE
 2. README.md
 
-### FILES NEWLY ADDED
+#### FILES NEWLY ADDED
 1. LICENSE
 2. README.md
 
-### FILES MODIFIED
+## FILES MODIFIED
 None
 
-### FILES DELETED
+#### FILES DELETED
 None
 
 ### LAST MODIFIED
-Author/Contributor: sowjanyajoga
-Date and Time: 08/28/17 14:00 PM
+* Author/Contributor: sowjanyajoga  
+* Date and Time: 08/28/17 14:00 PM
 
 ### SYNOPSIS
 This project is based on three unique data sets which are identified from different sources. A summary of the key details is provided
 
-### CRITERIA OF THE DATA SET SELECTION
-• Extensive free text data; other qualitative and mixed data is fine if it’s at least nominal or
+### Criteria of the Data Selection
+* Extensive free text data; other qualitative and mixed data is fine if it’s at least nominal or
 categorical, such as multiple choice answers
 
-• Enormous data sets are burdensome for class projects; in most cases, you should select data
+* Enormous data sets are burdensome for class projects; in most cases, you should select data
 under 1 GB in volume, though there may be some exceptions.
 
-• Data with restrictions that limit reuse and sharing
+* Data with restrictions that limit reuse and sharing
 
-• Overly simplistic data: 2 columns is too trivial for grad school!
+* Overly simplistic data: 2 columns is too trivial for grad school!
 
-• Super complicated data: 20 tables would be a real pain to organize into usable files, but if
+* Super complicated data: 20 tables would be a real pain to organize into usable files, but if
 the data are truly awesome, it might be worth it.
 
-• Data that contain personally-identifiable information (PII) such as full names, email addresses, contact details, etc. Exception: PII is OK when the persons are public figures, e.g.,
+* Data that contain personally-identifiable information (PII) such as full names, email addresses, contact details, etc. Exception: PII is OK when the persons are public figures, e.g.,
 politicians, movie stars, etc. There may be other exceptions; ask if you’re not certain.
 
-• Data about children or other clearly objectionable or morally questionable content (no R-rated
+* Data about children or other clearly objectionable or morally questionable content (no R-rated
 data, please).
 
 ##### The information regarding the data set provided includes the following details
