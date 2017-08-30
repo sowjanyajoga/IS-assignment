@@ -11,14 +11,14 @@ The repository in which the files are being maintained is named IS-assignment. T
 1. LICENSE
 2. README.md
 
-#### FILES NEWLY ADDED
+### FILES NEWLY ADDED
 1. LICENSE
 2. README.md
 
-## FILES MODIFIED
+### FILES MODIFIED
 None
 
-#### FILES DELETED
+### FILES DELETED
 None
 
 ### LAST MODIFIED
