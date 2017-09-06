@@ -6,7 +6,7 @@
 ## Interesting Aspect in the Data Set
 > This data is specifically an all-purpose dataset which is designed for learning purposes at the student level. So, this data will definitely cover all the aspects which are required for data cleaning or management
 
-## Description
+## Data Description
 The Yelp dataset is a subset of its businesses, reviews, and user data for use in personal, educational, and academic purposes. 
 
 Each file is composed of a single object type, one JSON-object per-line.  
@@ -284,7 +284,7 @@ Customers who would like to try new places would also benefit from this data set
 4. What are the most common tips being given to a particular business
 
 ### References
-Unknown (2017, May 3), Dataset. Retreived from https://www.yelp.com/dataset
+Dataset (2017, May 3). Retreived from https://www.yelp.com/dataset
 
 
 
