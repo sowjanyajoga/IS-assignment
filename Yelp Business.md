@@ -1,6 +1,6 @@
 ##### This is a markdown document which consists of the details of the Yelp Business Reviews Data Set
 
-### Name of the Data Set
+## Name of the Data Set
 **_Yelp Business Review_**
 
 ## Interesting Aspect in the Data Set
@@ -276,15 +276,15 @@ _This file is formatted as a JSON list of objects._
     {...}
 ]
 
-### LICENSE OR TERMS OF USE
+## LICENSE OR TERMS OF USE
 The **license** information can be obtained in the [DATASET CHALLENGE AGREEMENT](https://s3-media2.fl.yelpcdn.com/assets/srv0/engineering_pages/e926cc12796d/assets/vendor/yelp-dataset-license.pdf)  
 The **terms** for this data set can be found in [DATASET TERMS](https://s3-media2.fl.yelpcdn.com/assets/srv0/engineering_pages/af4b9cebfb4f/assets/vendor/dataset-challenge-dataset-agreement.pdf)
 
-### Potential Data Users and Decision-makers for this data
+## Potential Data Users and Decision-makers for this data
 The business owners are the potential data users for this data set. They can easily go through all the reviews given for their business and take decisions accordingly
 Customers who would like to try new places would also benefit from this data set
 
-### Potential questions/information that can be obtained from this data set
+## Potential questions/information that can be obtained from this data set
 1. What are the top 10 rated businesses around a particular neighborhood
 2. What are the services offered in a particular business
 3. How active is a particular user in regards with the reviews/tips
