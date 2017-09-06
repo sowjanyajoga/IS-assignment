@@ -98,7 +98,7 @@ teamwork, and point to easy-to-measure factors that can be used to guide educato
          8               Milestone 1 - Milestone 4 inclusive  
          9               Milestone 1 - Milestone 5 inclusive  
          10              Milestone 4 - Milestone 5 inclusive  
-         11              Milestone 3 - Milestone 5 inclusive  
+         11              Milestone 3 - Milestone 5 inclusive    
 
 
 ## LICENSE OR TERMS OF USE
