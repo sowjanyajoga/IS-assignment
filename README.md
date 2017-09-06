@@ -11,9 +11,9 @@ The repository in which the files are being maintained is named IS-assignment. T
 
 1. LICENSE
 2. README.md
-3. Yelp DataSet/ (The data set is greater than 2 GB, so the data set link is provided in a file)
+3. Yelp DataSet/ (Only the link is provided for the dataset)
 4. UCI DataSet/
-5. Consumer Complaint Data Set/
+5. Consumer Complaint Data Set/ (Only the link is provided for the dataset)
 
 ### FILES NEWLY ADDED
 1. Yelp DataSet/
