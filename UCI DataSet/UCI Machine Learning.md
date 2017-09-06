@@ -87,18 +87,18 @@ teamwork, and point to easy-to-measure factors that can be used to guide educato
   These time intervals are defined as follows:
       Time Interval        Corresponding Milestone Periods in Class
     -----------------    --------------------------------------------
-  *         0               Milestone 0
-  *         1               Milestone 1
-  *         2               Milestone 2
-  *         3               Milestone 3
-  *         4               Milestone 4
-  *         5               Milestone 5
-  *         6               Milestone 1 - Milestone 2 inclusive
-  *         7               Milestone 1 - Milestone 3 inclusive
-  *         8               Milestone 1 - Milestone 4 inclusive
-  *         9               Milestone 1 - Milestone 5 inclusive
-  *        10               Milestone 4 - Milestone 5 inclusive
-  *        11               Milestone 3 - Milestone 5 inclusive
+  *       0               Milestone 0
+  *       1               Milestone 1
+  *       2               Milestone 2
+  *       3               Milestone 3
+  *       4               Milestone 4
+  *       5               Milestone 5
+  *       6               Milestone 1 - Milestone 2 inclusive
+  *       7               Milestone 1 - Milestone 3 inclusive
+  *       8               Milestone 1 - Milestone 4 inclusive
+  *       9               Milestone 1 - Milestone 5 inclusive
+  *       10              Milestone 4 - Milestone 5 inclusive
+  *       11              Milestone 3 - Milestone 5 inclusive
 
 
 ## LICENSE OR TERMS OF USE
