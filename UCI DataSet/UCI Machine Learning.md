@@ -85,7 +85,7 @@ teamwork, and point to easy-to-measure factors that can be used to guide educato
   vs. implementation phases which have different dynamics.
 
   These time intervals are defined as follows:
-      Time Interval        Corresponding Milestone Periods in Class
+  *    Time Interval      Corresponding Milestone Periods in Class
     -----------------    --------------------------------------------
   *       0               Milestone 0
   *       1               Milestone 1
