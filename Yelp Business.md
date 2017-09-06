@@ -270,8 +270,8 @@ _Tips written by a user on a business. Tips are shorter than reviews and tend to
 ]
 
 ### LICENSE OR TERMS OF USE
-The license information can be obtained in the [DATASET CHALLENGE AGREEMENT](https://s3-media2.fl.yelpcdn.com/assets/srv0/engineering_pages/e926cc12796d/assets/vendor/yelp-dataset-license.pdf)
-The terms for this data set can be found in [DATASET TERMS](https://s3-media2.fl.yelpcdn.com/assets/srv0/engineering_pages/af4b9cebfb4f/assets/vendor/dataset-challenge-dataset-agreement.pdf)
+The **license** information can be obtained in the [DATASET CHALLENGE AGREEMENT](https://s3-media2.fl.yelpcdn.com/assets/srv0/engineering_pages/e926cc12796d/assets/vendor/yelp-dataset-license.pdf)  
+The **terms** for this data set can be found in [DATASET TERMS](https://s3-media2.fl.yelpcdn.com/assets/srv0/engineering_pages/af4b9cebfb4f/assets/vendor/dataset-challenge-dataset-agreement.pdf)
 
 ### Potential Data Users and Decision-makers for this data
 The business owners are the potential data users for this data set. They can easily go through all the reviews given for their business and take decisions accordingly
