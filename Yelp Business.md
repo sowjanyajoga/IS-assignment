@@ -14,7 +14,7 @@ Take a look at some examples to get you started: https://github.com/Yelp/dataset
 
 > Note: the following examples contains inline comments, which are technically not valid JSON. This is done here to simplify the documentation and explaining the structure, the JSON files which download will not contain any comments and will be fully valid JSON.
 
-**business.json**
+**business.json**  
 _Contains business data including location data, attributes, and categories._
 
 {
@@ -85,7 +85,7 @@ _Contains business data including location data, attributes, and categories._
     }
 }
 
-**review.json**
+**review.json**  
 _Contains full review text data including the user_id that wrote the review and the business_id the review is written for._
 
 {
@@ -117,7 +117,8 @@ _Contains full review text data including the user_id that wrote the review and 
     "cool": 0
 }
 
-**user.json**
+
+**user.json**  
 _User data including the user's friend mapping and all the metadata associated with the user._
 
 {
@@ -194,7 +195,9 @@ _User data including the user's friend mapping and all the metadata associated w
     // integer, number of photo compliments received by the user
     "compliment_photos": 50
 }
-**checkin.json**
+
+
+**checkin.json**  
 _Checkins on a business._
 
 {
@@ -229,7 +232,9 @@ _Checkins on a business._
     // string, 22 character business id, maps to business in business.json
     "business_id": "tnhfDv5Il8EaGSXZGiuQGg"
 }
-**tip.json**
+
+
+**tip.json**  
 _Tips written by a user on a business. Tips are shorter than reviews and tend to convey quick suggestions._
 
 {
@@ -248,8 +253,10 @@ _Tips written by a user on a business. Tips are shorter than reviews and tend to
     // string, 22 character unique user id, maps to the user in user.json
     "user_id": "49JhAJh8vSQ-vM4Aourl0g"
 }
-**photos** (from the photos auxiliary file)
-> _This file is formatted as a JSON list of objects._
+
+
+**photos** (from the photos auxiliary file)  
+_This file is formatted as a JSON list of objects._
 
 [
     {
