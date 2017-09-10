@@ -43,5 +43,5 @@ The problems identified from the data files provided are listed below:
 8. When the data is viewed through the column names, one cannot get an idea of the exact definition of the column as the column names are abbreviated. There is no definitions stated for all the column names
 
 ### Task 2 Question
-#2: Suggest a new system for organization. Create a table in your Markdown document showing a potential template for later years of data collection that would address the problems you identified in #1. To make this easier, you can use a Markdown cheatsheet for tables (Links to an external site.)Links to an external site. and/or a Markdown tables generator tool (Links to an external site.)Links to an external site..
+#2: Suggest a new system for organization. Create a table in your Markdown document showing a potential template for later years of data collection that would address the problems you identified in #1.
 
