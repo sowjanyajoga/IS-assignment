@@ -29,8 +29,8 @@ None
 ### SYNOPSIS
 The 3 files linked above were all intended to be part of the same study – the investigators wanted to examine the day-night distribution of 2 species of zooplankton across multiple years. The type of zooplankton they studied is called rotifers generally, and specifically the genus Conochilus, in which groups of individual rotifers stick together in colonies. The investigators plan to repeat this study for several more years. 
 
-### Task 1 Question
-#1 Based on class readings, prior experience, and your own good sense, list some of the problems in the way that the data are currently organized (there are at least 8 problems with these spreadsheets; try to identify as many as possible, but at least 4).
+### Task 1 Problems Identification
+#1: Based on class readings, prior experience, and your own good sense, list some of the problems in the way that the data are currently organized (there are at least 8 problems with these spreadsheets; try to identify as many as possible, but at least 4).
 **Response:** 
 The problems identified from the data files provided are listed below:
 1. Data is being maintained in two different files (zoop-temp.xlsx and zoop-temp-main.xlsx, which is not required as all the columns are same in both files.
@@ -43,5 +43,5 @@ The problems identified from the data files provided are listed below:
 8. When the data is viewed through the column names, one cannot get an idea of the exact definition of the column as the column names are abbreviated. There is no definitions stated for all the column names
 
 ### Task 2 Question
-
+#2: Suggest a new system for organization. Create a table in your Markdown document showing a potential template for later years of data collection that would address the problems you identified in #1. To make this easier, you can use a Markdown cheatsheet for tables (Links to an external site.)Links to an external site. and/or a Markdown tables generator tool (Links to an external site.)Links to an external site..
 
