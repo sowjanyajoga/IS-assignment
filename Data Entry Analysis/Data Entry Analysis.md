@@ -62,9 +62,10 @@ The problems identified from the data files provided are listed below:
 |------|-----------|-----------------------------|-----------------|-------------------------|---------|---------------|------------|--------------------------------|---------------|---------|---------------------------|
 |      |           |                             |                 |                         |         |               |            |                                |               |         |                           |
 
+**Table B:**  
 
-**Table B:**
-| Date | Time(EST) | Temperature(Degree Celsius) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Chippo #/L | Chippo Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
+| Date | Time(EST) | Temperature(Degree Celsius) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Cuni #/L | Cuni Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
 |------|-----------|-----------------------------|-----------------|-------------------------|---------|---------------|----------|------------------------------|---------------|---------|---------------------------|
 |      |           |                             |                 |                         |         |               |          |                              |               |         |                           |
+
 
