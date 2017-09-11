@@ -54,3 +54,14 @@ The problems identified from the data files provided are listed below:
 7. The column names should be expanded and not be written in short forms (just for the convenience of the investigator)
 8. Having an additional column with the name "Miscellaneous information" as stated in point 2 can resolve this issue
 
+### TABLES
+
+**Table A:**
+| Date | Time(EST) | Temperature(Degree Celsius) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Cuni #/L | Cuni Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
+|------|-----------|-----------------------------|-----------------|-------------------------|---------|---------------|----------|------------------------------|---------------|---------|---------------------------|
+|      |           |                             |                 |                         |         |               |          |                              |               |         |                           |
+**Table B:**
+| Date | Time(EST) | Temperature(Degree Celsius) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Chippo #/L | Chippo Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
+|------|-----------|-----------------------------|-----------------|-------------------------|---------|---------------|----------|------------------------------|---------------|---------|---------------------------|
+|      |           |                             |                 |                         |         |               |          |                              |               |         |                           |
+
