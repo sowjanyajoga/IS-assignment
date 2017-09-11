@@ -42,6 +42,15 @@ The problems identified from the data files provided are listed below:
 7. Negative values were found in few columns like "number of cuni/chippo per litre" which are not valid values.
 8. When the data is viewed through the column names, one cannot get an idea of the exact definition of the column as the column names are abbreviated. There is no definitions stated for all the column names
 
-### Task 2 Question
+### Task 2 Solutions
 #2: Suggest a new system for organization. Create a table in your Markdown document showing a potential template for later years of data collection that would address the problems you identified in #1.
+#### **Response**:
+1. The data in zoop-temp.xlsx and zoop-temp-main.xlsx files can be combined into one single excel sheet
+2. An additional column can be added with the column name as "Location" and a link to the map can be provided. Another additional column can be added with the name as "Miscellaneous Information" for noting any other important details
+3. An additional column with the name "Time" can be added to analyze the data by the criteria of the day and night distribution
+4. All the units of measurement considered during the investigation can be added after the column name 
+5. Combining all the three excel files into one single file can help in eliminating these discepancies
+6. Make sure that there is no negative value included in the data
+7. The column names should be expanded and not be written in short forms (just for the convenience of the investigator)
+8. Having an additional column with the name "Miscellaneous information" as stated in point 2 can resolve this issue
 
