@@ -35,12 +35,12 @@ The 3 files linked above were all intended to be part of the same study – the 
 The problems identified from the data files provided are listed below:
 1. Data is being maintained in two different files (zoop-temp.xlsx and zoop-temp-main.xlsx, which is not required as all the columns are same in both files.
 2. In zoop-temp.xlsx it is stated that "_Station B is in a shallower southern arm of the lake, see yellow notebook for map and details_". But there is no yellow notebook or any link for this notebook provided.
-3. The timings are not noted for the data, which will not allow the user to analyze the data by the criteria of the day and night distribution.
-4. The data collected only consists of the date but not the time at which the data is collected. So this data does not help the investigators to examine the day-night distribution of the zooplankton species
+3. The data collected only consists of the date but not the time at which the data is collected. So this data does not help the investigators to examine the day-night distribution of the zooplankton species
 4. The units of measurement for the columns in all the data files are not mentioned
 5. The pond2010 data is for the year 2010, whereas the zoop data is for the year 2011. Linking both these data files and converting this to useful information would be a difficult task
-7. Negative values were found in few columns like "number of cuni/chippo per litre" which are not valid values.
-8. When the data is viewed through the column names, one cannot get an idea of the exact definition of the column as the column names are abbreviated. There is no definitions stated for all the column names
+6. Negative values were found in few columns like "number of cuni/chippo per litre" which are not valid values.
+7. When the data is viewed through the column names, one cannot get an idea of the exact definition of the column as the column names are abbreviated. There is no definitions stated for all the column names
+8. Few values are in red/yellow. There is no reason stated for these color codes
 
 ### Task 2 Solutions
 #2: Suggest a new system for organization. Create a table in your Markdown document showing a potential template for later years of data collection that would address the problems you identified in #1.
@@ -56,13 +56,13 @@ The problems identified from the data files provided are listed below:
 
 ### TABLES
 
-**Table A:**  
+**Table A: Chippo Table**  
 
 | Date | Time(EST) | Temperature(Degree Celsius) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Chippo #/L | Chippo Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
 |------|-----------|-----------------------------|-----------------|-------------------------|---------|---------------|------------|--------------------------------|---------------|---------|---------------------------|
 |      |           |                             |                 |                         |         |               |            |                                |               |         |                           |
 
-**Table B:**  
+**Table B: Cuni Table**  
 
 | Date | Time(EST) | Temperature(Degree Celsius) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Cuni #/L | Cuni Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
 |------|-----------|-----------------------------|-----------------|-------------------------|---------|---------------|----------|------------------------------|---------------|---------|---------------------------|
