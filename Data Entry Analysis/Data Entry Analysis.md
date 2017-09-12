@@ -49,7 +49,7 @@ The problems identified from the data files provided are listed below:
 2. An additional column can be added with the column name as "Location" and a link to the map can be provided. Another additional column can be added with the name as "Miscellaneous Information" for noting any other important details
 3. An additional column with the name "Time" can be added to analyze the data by the criteria of the day and night distribution
 4. All the units of measurement considered during the investigation can be added after the column name 
-5. Combining all the three excel files into one single file can help in eliminating these discepancies
+5. Combining all the three excel files into one single file can help in eliminating these discrepancies
 6. Make sure that there is no negative value included in the data
 7. The column names should be expanded and not be written in short forms (just for the convenience of the investigator)
 8. Having an additional column with the name "Miscellaneous information" as stated in point 2 can resolve this issue
